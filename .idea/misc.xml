@@ -3,8 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/nicko/AndroidStudioProjects/Food/app/src/main/res/layout/activity_main.xml" value="0.3605072463768116" />
+        <entry key="..\:/Users/nicko/AndroidStudioProjects/Food/app/src/main/res/drawable/ic_profile.xml" value="0.25" />
+        <entry key="..\:/Users/nicko/AndroidStudioProjects/Food/app/src/main/res/drawable/ic_search.xml" value="0.347" />
+        <entry key="..\:/Users/nicko/AndroidStudioProjects/Food/app/src/main/res/drawable/search_background.xml" value="0.3665" />
+        <entry key="..\:/Users/nicko/AndroidStudioProjects/Food/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/nicko/AndroidStudioProjects/Food/app/src/main/res/layout/activity_splash_screen.xml" value="0.3605072463768116" />
+        <entry key="..\:/Users/nicko/AndroidStudioProjects/Food/app/src/main/res/layout/category_recycler_view.xml" value="0.2936708860759494" />
+        <entry key="..\:/Users/nicko/AndroidStudioProjects/Food/app/src/main/res/layout/choice_recycler_view.xml" value="0.25" />
       </map>
     </option>
   </component>
